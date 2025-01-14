@@ -9,8 +9,8 @@
 `👐`  *"Every piece of software is just a puzzle made by humans—and if it’s made by humans, it can be cracked by humans. Nothing is truly unbreakable, just undiscovered."*
 
 `🪐` **Who Am I?**  
-`⭐` Software Developer, Video Editor, Graphics Designer  
-`🔧` Builder of tools that simplify chaos and creator of things no one asked for, but everyone needed.  
+`⭐` 21 y/o software Developer, Video Editor and Graphics Designer  
+`🔧` Personally named as builder of tools and things no one asked for, but everyone needed.  
 
 `🎯` **Passions:**  
 - `🧩` Cracking puzzles (digital or life).  
@@ -25,5 +25,5 @@
 `🛠` **Let’s Build Together:**  
 `👜` *Partnership? Contact me on Discord:* `kamerzystanasyt_`  
 
-`🍀` **Fun Fact:**  
-> *Sometimes I code to escape life. Other times, life escapes while I code.*  
+## `🧩` Fun Fact:
+`🍀` *Sometimes I code to escape life. Other times, life escapes while I code.*  
