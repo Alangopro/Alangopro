@@ -5,4 +5,4 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Alangopro&data=followers,repositories,stars,commits&theme=nautilus)]()
 
 
-`👐` _"Every piece of software is just a puzzle made by humans—and if it’s made by humans, it can be cracked by humans. Nothing is truly unbreakable, just undiscovered." _
+`👐` *"Every piece of software is just a puzzle made by humans—and if it’s made by humans, it can be cracked by humans. Nothing is truly unbreakable, just undiscovered."*
