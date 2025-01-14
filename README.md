@@ -22,8 +22,8 @@
 - `🤓` Experimenting with weird ideas.  
 - `☕` Balancing 3 cups of coffee and infinite debugging sessions.  
 
-`🛠` **Let’s Build Together:**  
-`👜` *Partnership? Contact me on Discord:* `kamerzystanasyt_`  
+`📯`  **Let’s Build Together:**  
+`👜`  *Partnership? Contact me on Discord:* `kamerzystanasyt_`  
 
-## `🧩` Fun Fact:
-`🍀` *Sometimes I code to escape life. Other times, life escapes while I code.*  
+## `🧩`  Fun Fact:
+`🍀`  *Sometimes I code to escape life. Other times, life escapes while I code.*  
