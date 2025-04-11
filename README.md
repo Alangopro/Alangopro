@@ -27,3 +27,6 @@
 
 ## `🧩`   Fun Fact:
 `🍀`   *Sometimes I code to escape life. Other times, life escapes while I code.*  
+
+
+![webdevbanner](https://github.com/user-attachments/assets/3acaa1ee-09f1-40ac-aaef-6a168c5079cc)
