@@ -28,5 +28,5 @@
 
 <br></br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alangopro&layout=compact&theme=dark&hide_border=true" />
+  <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 </div>
