@@ -19,4 +19,10 @@ jobs:
           base: header, repositories
           plugin_lines: yes
           config_display: regular
-          config_colors: "accent:#808080"
+          extras_css: |
+            :root {
+              --color-calendar-graph-day-L1: #808080;
+              --color-accent-fg: #808080;
+              --color-accent-emphasis: #808080;
+            }
+            .header h1, .header h2, .field svg { color: #808080!important; }
