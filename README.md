@@ -22,7 +22,7 @@
       <a href="https://www.queenmc.pl/"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=pink" /></a>
       <a href="https://github.com/runtimefailure"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=pink" /></a>
       <br></br>
-      <a href="#"><img src="https://komarev.com/ghpvc/?username=Alangopro&style=for-the-badge&base=50&abbreviated=true&color=%23000000&label=Views" /></a>
+      <a href="#"><img src="https://komarev.com/ghpvc/?username=runtimefailure&style=for-the-badge&base=50&abbreviated=true&color=%23000000&label=Views" /></a>
     </center>
 </div>
 
